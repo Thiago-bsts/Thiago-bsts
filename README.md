@@ -36,7 +36,7 @@
 
 ###
 
-<h3 align="left">"Young, creative and programming solutions that transform ideas into reality."<br><br><br>•Software Engineer⏳... 👨🏾‍💻<br>•Tec. Systems Dev 👷🏾</h3>
+<h3 align="left">"Cada código que escrevo é um passo para transformar ideias em realidade."<br><br><br>•Software Engineer⏳... 👨🏾‍💻<br>•Tec. Systems Dev 👷🏾</h3>
 
 ###
 
