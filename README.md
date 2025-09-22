@@ -14,7 +14,7 @@
 
 ###
 
-<img align="left" height="400" src="https://sdmntprwestus.oaiusercontent.com/files/00000000-0288-5230-bdeb-2c326bed4f0c/raw?se=2025-09-19T04%3A54%3A33Z&sp=r&sv=2024-08-04&sr=b&scid=170cb893-2565-5513-aa7c-0e0486a2b0eb&skoid=04233560-0ad7-493e-8bf0-1347c317d021&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-18T23%3A25%3A49Z&ske=2025-09-19T23%3A25%3A49Z&sks=b&skv=2024-08-04&sig=%2B67rYoJbUMExIw8rMcVeBbXy9UQJdn5vfLJF5aH0gVY%3D"/>
+<img align="left" height="400" src="[https://sdmntprwestus.oaiusercontent.com/files/00000000-0288-5230-bdeb-2c326bed4f0c/raw?se=2025-09-19T04%3A54%3A33Z&sp=r&sv=2024-08-04&sr=b&scid=170cb893-2565-5513-aa7c-0e0486a2b0eb&skoid=04233560-0ad7-493e-8bf0-1347c317d021&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-18T23%3A25%3A49Z&ske=2025-09-19T23%3A25%3A49Z&sks=b&skv=2024-08-04&sig=%2B67rYoJbUMExIw8rMcVeBbXy9UQJdn5vfLJF5aH0gVY%3D](https://sdmntprwestus.oaiusercontent.com/files/00000000-0288-5230-bdeb-2c326bed4f0c/raw?se=2025-09-22T03%3A48%3A47Z&sp=r&sv=2024-08-04&sr=b&scid=cf557ea1-def2-5ee4-8979-cfce4e581413&skoid=71e8fa5c-90a9-4c17-827b-14c3005164d6&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-21T18%3A47%3A28Z&ske=2025-09-22T18%3A47%3A28Z&sks=b&skv=2024-08-04&sig=hdyPHajuyRDMzWTy198SjmzPpeu1koSaHz0OkgYppBc%3D)"/>
 
 ###
 
