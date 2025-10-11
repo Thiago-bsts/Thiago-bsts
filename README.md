@@ -1,4 +1,4 @@
-<h2 align="center">- "O caminho que percorri molda não só quem sou, mas tudo o que ainda posso criar."</h2>
+<h2 align="center">- "The path I've walked shapes not only who I am, but everything I can still create.."</h2>
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<h3 align="left">"Cada código que escrevo é um passo para transformar ideias em realidade."<br><br>🔻📚Education📚🔻<br>•Software Engineer⏳... 👨🏾‍💻 Pela UNIFAN - Centro Universitário Nobre<br>•Tec. Systems Dev👷🏾 Pelo SENAI-Serviço Nacional de Aprendizagem Industrial</h3>
+<h3 align="left">"Every piece of code I write is a step towards turning ideas into reality."<br><br>🔻📚Education📚🔻<br><br>•Software Engineer⏳... 👨🏾‍💻 for UNIFAN - Centro Universitário Nobre<br>•Tec. Systems Dev👷🏾 for SENAI-Serviço Nacional de Aprendizagem Industrial</h3>
 
 ###
 
