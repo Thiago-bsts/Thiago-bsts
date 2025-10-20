@@ -1,15 +1,3 @@
-<h2 align="center">- "The path I've walked shapes not only who I am, but everything I can still create.."</h2>
-
-###
-
-<div align="center">
-  <img height="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"  />
-</div>
-
-###
-
-<br clear="both">
-
 <h2 align="left">👨🏾‍💻 about me 🛰️</h2>
 
 ###
