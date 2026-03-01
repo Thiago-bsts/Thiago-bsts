@@ -12,15 +12,15 @@
 
 ###
 
-<h2 align="left">My Education</h2>
+<h3 align="left">My Education</h3>
 
 ###
 
-<h3 align="left">•Software Engineer⏳... <br>•Tec.systems dev</h3>
+<h4 align="left">•Software Engineer⏳... <br>•Tec.systems dev</h4>
 
 ###
 
-<h2 align="left">My Technologies</h2>
+<h3 align="left">My Technologies</h3>
 
 ###
 
@@ -78,7 +78,7 @@
 
 <br clear="both">
 
-<h1 align="center">__________________________________________________________________________________</h1>
+<h1 align="center"></h1>
 
 ###
 
