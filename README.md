@@ -8,15 +8,15 @@
 
 ###
 
-<img align="right" height="500" src="https://i.pinimg.com/736x/79/72/8c/79728c74c50abd33a8882324f0c162fd.jpg"  />
-
-###
-
-<h3 align="left">My Education</h3>
+<h2 align="left">My Education</h2>
 
 ###
 
 <h3 align="left">•Software Engineer⏳... <br>•Tec.systems dev</h3>
+
+###
+
+<img align="right" height="520" src="https://i.pinimg.com/736x/79/72/8c/79728c74c50abd33a8882324f0c162fd.jpg"  />
 
 ###
 
@@ -82,10 +82,23 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img height="460" src="https://i.pinimg.com/736x/bf/40/47/bf4047d361ac18605830864e0994dc0f.jpg"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Thiago-bsts&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thiago-bsts&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ Thiago-bsts/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@ Thiago-bsts/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ Thiago-bsts/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@ Thiago-bsts/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ Thiago-bsts/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@ Thiago-bsts/2" alt="Medium post 3"  />
+  </a>
 </div>
 
 ###
