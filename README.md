@@ -20,8 +20,6 @@
 
 <br clear="both">
 
-<img align="right" height="360" src="https://i.pinimg.com/736x/a1/44/7a/a1447a446c632402c48407d6c72f7e20.jpg"  />
-
 ###
 
 <div align="center">
