@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="center">Hi, I'm Thiago Bastos. I'm a Software Developer and Software Engineering student from Brazil.<br><br>I am currently studying backend and mobile development, focusing on technologies such as Java, Kotlin, Spring Boot, and SQL.<br><br>My main goal is to strengthen my skills by building practical projects and developing scalable software solutions while continuing to grow as a developer.</h4>
+<h3 align="center">Hi, I'm Thiago Bastos. I'm a Software Developer and Software Engineering student from Brazil.<br><br>I am currently studying backend and mobile development, focusing on technologies such as Java, Kotlin, Spring Boot, and SQL.<br><br>My main goal is to strengthen my skills by building practical projects and developing scalable software solutions while continuing to grow as a developer.</h3>
 
 ###
 
